@@ -1,6 +1,5 @@
 # Twitter Sentiment Analysis - NLP
 
-**Complete Video Tutorial:** https://youtu.be/RLfUyn3HoaE
 
 # Dataset Information
 
@@ -23,4 +22,5 @@ For training the models, we provide a labelled dataset of 31,962 tweets. The dat
 
 <li>Logistic Regression
   
+
 **Best Model Accuracy:** 95.00
